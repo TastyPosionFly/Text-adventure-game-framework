@@ -1,0 +1,18 @@
+<items>
+    <weapons>
+        <weapon>
+            <name>长剑</name>
+            <attributeValues>5</attributeValues>
+        </weapon>
+        <weapon>
+            <name>手</name>
+            <attributeValues>1</attributeValues>
+        </weapon>
+    </weapons>
+    <potions>
+        <potion>
+            <name>生命药水</name>
+            <attributeValues>2</attributeValues>
+        </potion>
+    </potions>
+</items>

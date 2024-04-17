@@ -1,0 +1,4 @@
+<config>
+    <beforeMethod>beforeFight</beforeMethod>
+    <afterMethod>afterFight</afterMethod>
+</config>

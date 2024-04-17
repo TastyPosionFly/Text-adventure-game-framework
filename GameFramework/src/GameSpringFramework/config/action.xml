@@ -1,0 +1,3 @@
+<actions>
+    <action type="攻击">GameSpringFramework.action.AttackAction</action>
+</actions>
